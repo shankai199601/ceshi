@@ -1,1 +1,3 @@
 *.iml
+/src/main/java/com/haomostudio/SpringMVCTemplate/service/common/Token.java
+!/src/main/java/com/haomostudio/SpringMVCTemplate/service/common/Token.java
